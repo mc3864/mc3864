@@ -1,16 +1,31 @@
-## Hi there 👋
+# Markus Campbell
 
-<!--
-**mc3864/mc3864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Strategist | Executive Coach | Founder
 
-Here are some ideas to get you started:
+## What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Verida Optimum
+- AI-Powered Health Optimization
+- AI Coaching Agents
+- Leadership Development Systems
+- Executive Coaching Frameworks
+
+## Current Projects
+
+- AI Coaching Agent Playbooks
+- Best Year Ever AI Coach
+- Peak State Coach
+- Verida Optimum Health Platform
+
+## Areas of Interest
+
+- Artificial Intelligence
+- Human Performance
+- Health Optimization
+- Leadership Development
+- Organizational Effectiveness
+- Entrepreneurship
+
+## Mission
+
+Building AI-powered systems that help people create extraordinary results in health, leadership, business, and life.
